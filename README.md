@@ -23,7 +23,7 @@ it follows a fixed workflow:
 The full prompt body lives in [immersive.prompt.md](immersive.prompt.md);
 the decision rules live in the companion `immersive` chatmode.
 
-## Worked examples from this repo
+## Examples 
 
 ### Example 1 — Gang of Four design patterns
 
